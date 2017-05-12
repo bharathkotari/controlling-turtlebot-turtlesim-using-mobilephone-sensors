@@ -15,7 +15,7 @@ how to use this code
 3. and run the command "rosrun mob_control willtry.py"  ( source the workspace if this is not working using "source devel/setup.bash")
 4. run that app first and run this command .
 
-how to initilise hyperimu app
+how to initilize hyperimu app
 1. just see your routers/computer ip address using ifconfig in linux
 2. go to settings > select udp 
 3. and edit the ip address of target
