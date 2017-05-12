@@ -9,7 +9,7 @@ or uset it like i dont care .
 also you can tweek this code so that it can work for hector quadrotor . do it if you want . 
 
 how to use this code
-1. place this entire folder in ~/(your ROS workspace)/src/
+1. place this(mob_control) entire folder in ~/(your ROS workspace)/src/
 2. build the package using catkin_make mob_control
 3. and run the command "rosrun mob_control willtry.py"  ( source the workspace if this is not working using "source devel/setup.bash")
 4. run that app first and run this command .
