@@ -18,12 +18,12 @@ how to use this code
 how to initilise hyperimu app
 1. just see your routers/computer ip address using ifconfig in linux
 2. go to settings > select udp 
- -> and edit the ip address of target
- -> and give the port number as 3478 or your own port.
- -> set the sampling time low , 50 ms worked well for me
-3. select the sensors from list of sensors
- -> i have selected Accelerometer to control the direction
-4. come back to app homepage and touch the round animation or whatever it is.
+3. and edit the ip address of target
+4. and give the port number as 3478 or your own port.
+5. set the sampling time low , 50 ms worked well for me
+6. select the sensors from list of sensors
+7. i have selected Accelerometer to control the direction
+8. come back to app homepage and touch the round animation or whatever it is.
 
 original codes and tutorials at  for keyboard teleop https://github.com/turtlebot/turtlebot/tree/kinetic/turtlebot_teleop/scripts 
  for hyperimu getting the udp stream https://github.com/ianovir/HIMUServer
